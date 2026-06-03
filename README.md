@@ -1,3 +1,3 @@
 # GE-IT-Skills-Portfolio
 ### Balancing books, building futures
-Hi! I’m a first-year Accountancy student with a growing passion for both finance and technology. Skilled in digital tools, data organization, and spreadsheet management, I also value precision, critical thinking, and integrity which are qualities essential in both IT and accounting.
+Hi! I’m a first-year Accountancy student with a growing passion for both finance and technology. Skilled in digital tools, data organization, and spreadsheet management, I also value precision, critical thinking, and integrity, qualities essential to both IT and accounting. I value integrity, adaptability, and continuous learning, especially in environments that challenge me to grow both technically and professionally. My goal is to build a strong foundation in accounting and technology while developing the skills needed to contribute effectively in modern, fast-paced industries.
