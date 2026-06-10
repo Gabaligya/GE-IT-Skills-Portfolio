@@ -4,9 +4,10 @@ Hi! I’m a first-year Accountancy student with a growing passion for both finan
 <br></br>
 <img width="1920" height="1080" alt="thank you" src="https://github.com/user-attachments/assets/6c7b5992-46ce-42d4-be85-1559382bfb53" />
 <img width="1584" height="396" alt="Profile Banner (1)" src="https://github.com/user-attachments/assets/ff010020-f632-4c6a-b205-90212eff8b2f" />
-
+This design was made to present myself professionally while also reflecting my preferred aesthetic and color palette. Green is a color that represents growth and neutrality, a trait I wish to convey to future clients and anyone who comes across my branding kit.
 <br></br>
 <img width="1080" height="1080" alt="Product Poster (1)" src="https://github.com/user-attachments/assets/522bebbb-bfc2-4c4d-b62a-e55ef306f415" />
+
 <br></br>
 <img width="800" height="2000" alt="Infographic" src="https://github.com/user-attachments/assets/7fcf3d38-8a59-4356-9b7c-d851eac79d65" />
 
