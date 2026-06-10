@@ -7,7 +7,7 @@ Hi! I’m a first-year Accountancy student with a growing passion for both finan
 This design was made to present myself professionally while also reflecting my preferred aesthetic and color palette. Green is a color that represents growth and neutrality, a trait I wish to convey to future clients and anyone who comes across my branding kit.
 <br></br>
 <img width="1080" height="1080" alt="Product Poster (1)" src="https://github.com/user-attachments/assets/522bebbb-bfc2-4c4d-b62a-e55ef306f415" />
-
+For this product poster, the product being advertised is the accounting service I provide. It features the basic calculator, which is a tool that symbolizes accounting and holds great meaning to my fellow accountants and me. 
 <br></br>
 <img width="800" height="2000" alt="Infographic" src="https://github.com/user-attachments/assets/7fcf3d38-8a59-4356-9b7c-d851eac79d65" />
 
