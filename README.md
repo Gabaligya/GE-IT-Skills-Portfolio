@@ -10,4 +10,5 @@ This design was made to present myself professionally while also reflecting my p
 For this product poster, the advertised product is the accounting service I provide. It features the basic calculator, a tool that symbolizes accounting and holds great meaning for my fellow accountants and me. 
 <br></br>
 <img width="800" height="2000" alt="Infographic" src="https://github.com/user-attachments/assets/7fcf3d38-8a59-4356-9b7c-d851eac79d65" />
+
 This infographic uses the color palette from earlier designs and also addresses a problem faced by businesses and accountants in this modern age. By combining soothing green color, minimalist designs, and simple explanations, the infographic can be used not only for its content but also for its practical design.
