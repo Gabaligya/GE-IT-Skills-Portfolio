@@ -63,8 +63,3 @@ I prompted an AI-assisted research tool to summarize the article "Heritage Touri
 ### 2. Reflection on AI Reliability
 The AI-generated summary accurately identified several major themes in the article, particularly funding limitations, urbanization pressures, weak policy implementation, and low public awareness. However, the audit also revealed a tendency to exaggerate findings and to introduce unsupported claims regarding tourism revenue, international recognition, and promotional effectiveness. These errors demonstrate how AI systems can confuse recommendations, assumptions, and factual findings when summarizing academic literature.
 
-
-
-3. Research Integrity Takeaway
-
-This verification exercise highlights the importance of comparing AI-generated summaries with original scholarly sources. While AI can accelerate literature review processes, human evaluation remains necessary to identify hallucinations, contextual inaccuracies, and overgeneralizations. Reliable academic work requires source validation before incorporating AI-generated information into research outputs.
