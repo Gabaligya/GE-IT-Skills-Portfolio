@@ -82,26 +82,11 @@ Result: Successfully normalized 250 tourism-related records across museums, hist
 <br></br>
 ### 2. Visualizations Generated
 Chart 1: Annual Heritage Site Visitor Volume (2020–2025)
-Visitors
-35k |                         █
-30k |                     █   █
-25k |                 █   █   █
-20k |             █   █   █   █
-15k |         █   █   █   █   █
-10k |     █   █   █   █   █   █
- 5k | █   █   █   █   █   █
-     --------------------------------
-      2020 2021 2022 2023 2024 2025
-
+<img width="440" height="317" alt="Chart 1" src="https://github.com/user-attachments/assets/d691ef13-2265-401d-b1e6-01a73fc6a385" />
 Figure 1. Visitor arrivals at selected heritage tourism sites in Davao City are showing post-pandemic recovery and increasing public engagement.
 
 Chart 2: Visitor Awareness Sources (% of Respondents)
-Social Media           ████████████████████ 45%
-School Programs        ██████████           20%
-Tourism Campaigns      ████████             15%
-Family/Friends         ██████               12%
-Print Media            ████                  8%
-
+<img width="597" height="187" alt="Chart 2" src="https://github.com/user-attachments/assets/79177097-84a5-430a-9b69-80c0a697f7e1" />
 Figure 2. Distribution of information channels influencing heritage tourism awareness among surveyed visitors.
 <br></br>
 ### 3. Human Analytical Narrative (The "Why" Factor)
