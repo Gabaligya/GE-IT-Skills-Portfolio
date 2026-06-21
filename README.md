@@ -21,16 +21,23 @@ This infographic uses the color palette from earlier designs and also addresses 
 "Act as a Senior Cultural Tourism Planner specializing in Mindanao heritage destinations and community-based tourism. Your objective is to draft a 500-word tourism development brief for local government units and tourism stakeholders in Davao City."
 
 Context: Visitor interest in Davao's indigenous cultures, historical landmarks, and local traditions is increasing, but many cultural attractions remain underpromoted and disconnected from mainstream tourism routes. Local communities seek economic opportunities while preserving cultural authenticity.
+
 Constraints: Use a professional, community-centered tone. Do NOT mention international tourism benchmarks, foreign case studies, or national tourism rankings. Focus entirely on Davao City's cultural sites, indigenous communities, local festivals, museums, and heritage districts. Avoid corporate jargon and highly technical planning language.
+
 Format: Output in clear Markdown with exactly three actionable recommendations under the heading '### Heritage Tourism Strategies'."
 
 #### 2. Prompt Battle Ledger
 Version	Prompt Modifier Added	Output Quality Reflection
 V1	"Write a tourism plan for Davao City."	
+
 Too broad. Generated generic tourism recommendations with little connection to Davao's cultural identity.
+
 V2	Added cultural tourism focus and specified indigenous heritage attractions.	
+
 More relevant, but recommendations remained descriptive rather than actionable for local tourism planners.
+
 V3	Added target audience, local cultural constraints, output length, and required recommendation structure.	
+
 Target achieved. Produced practical, community-focused tourism strategies that balanced economic development with cultural preservation.
 
 #### 3. Visual Branding Asset
