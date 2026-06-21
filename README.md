@@ -70,7 +70,7 @@ The AI-generated summary accurately identified several major themes in the artic
 ### Dataset Focus: Davao City Heritage Tourism Visitor Engagement Dataset (Mock CSV Analysis)
 ### 1. Data Cleaning Protocol Log
 Raw Input Problem: The dataset contained incomplete visitor counts from several heritage sites between 2022 and 2024, duplicate survey responses, and inconsistent formatting for age-group categories (e.g., "18-25", "18 to 25", "Youth Adult").
-AI Cleaning Instruction: "Analyze the dataset. Remove duplicate visitor survey entries, standardize all age-group labels into a single format, identify missing visitor count values, and replace them using the median value from the corresponding heritage site category. Output a cleaned dataset summary and validation report."
+AI Cleaning Instruction: "Analyze the dataset. Remove duplicate visitor survey entries, standardize all age-group labels to a single format, identify missing visitor count values, and replace them with the median value for the corresponding heritage site category. Output a cleaned dataset summary and validation report."
 Structural Adjustments Made by AI:
 - Removed 34 duplicate survey records.
 - Standardized 5 inconsistent age-group classifications.
@@ -85,7 +85,7 @@ Chart 1: Annual Heritage Site Visitor Volume (2020–2025)
 <br></br>
 <img width="440" height="317" alt="Chart 1" src="https://github.com/user-attachments/assets/d691ef13-2265-401d-b1e6-01a73fc6a385" />
 
-Figure 1. Visitor arrivals at selected heritage tourism sites in Davao City are showing post-pandemic recovery and increasing public engagement.
+Figure 1. Visitor arrivals at selected heritage tourism sites in Davao City are showing signs of post-pandemic recovery and increased public engagement.
 
 Chart 2: Visitor Awareness Sources (% of Respondents)
 <br></br>
@@ -95,8 +95,8 @@ Figure 2. Distribution of information channels influencing heritage tourism awar
 <br></br>
 ### 3. Human Analytical Narrative (The "Why" Factor)
 
-"The visualizations reveal two significant patterns. First, visitor engagement with heritage tourism sites in Davao City has steadily increased following pandemic-related declines, suggesting a growing public interest in local culture and historical identity. Second, social media overwhelmingly dominates as the primary source of visitor awareness, surpassing traditional promotional channels such as print media and formal tourism campaigns.
+The visualizations reveal two significant patterns. First, visitor engagement with heritage tourism sites in Davao City has steadily increased following pandemic-related declines, suggesting a growing public interest in local culture and historical identity. Second, social media overwhelmingly dominates as the primary source of visitor awareness, surpassing traditional promotional channels such as print media and formal tourism campaigns.
 
 While the automated AI analysis identified these trends as indicators of successful tourism recovery, human interpretation connects them to a broader socio-environmental reality in Mindanao. As urban development continues to transform many communities, heritage sites increasingly serve as spaces for cultural preservation and collective memory. At the same time, younger generations rely heavily on digital platforms to discover local destinations, underscoring the importance of online storytelling in heritage conservation.
 
-These findings suggest that local government units, cultural institutions, and tourism stakeholders should invest in digital heritage promotion while ensuring that increased visitor activity does not compromise the preservation of historical landmarks. Sustainable heritage tourism is not only an economic opportunity for Davao City but also a strategy for safeguarding Mindanao's cultural identity amid rapid modernization."
+These findings suggest that local government units, cultural institutions, and tourism stakeholders should invest in digital heritage promotion while ensuring that increased visitor activity does not compromise the preservation of historical landmarks. Sustainable heritage tourism is not only an economic opportunity for Davao City but also a strategy for safeguarding Mindanao's cultural identity amid rapid modernization.
