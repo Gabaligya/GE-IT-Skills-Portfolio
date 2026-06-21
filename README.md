@@ -28,16 +28,14 @@ Format: Output in clear Markdown with exactly three actionable recommendations u
 
 #### 2. Prompt Battle Ledger
 Version	Prompt Modifier Added	Output Quality Reflection
-V1	"Write a tourism plan for Davao City."	
 <br></br>
+##### V1	"Write a tourism plan for Davao City.":
 Too broad. Generated generic tourism recommendations with little connection to Davao's cultural identity.
 <br></br>
-V2	Added cultural tourism focus and specified indigenous heritage attractions.	
-<br></br>
+##### V2	Added cultural tourism focus and specified indigenous heritage attractions:
 More relevant, but recommendations remained descriptive rather than actionable for local tourism planners.
 <br></br>
-V3	Added target audience, local cultural constraints, output length, and required recommendation structure.	
-<br></br>
+##### V3	Added target audience, local cultural constraints, output length, and required recommendation structure:
 Target achieved. Produced practical, community-focused tourism strategies that balanced economic development with cultural preservation.
 
 #### 3. Visual Branding Asset
