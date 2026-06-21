@@ -16,6 +16,7 @@ For this product poster, the advertised product is the accounting service I prov
 This infographic uses the color palette from earlier designs and also addresses a problem faced by businesses and accountants in this modern age. By combining soothing green color, minimalist designs, and simple explanations, the infographic can be used not only for its content but also for its practical design.
 
 
+<br></br>
 ## The Davao Cultural Heritage Tourism Prompt System
 ### 1. System Prompt Template 
 "Act as a Senior Cultural Tourism Planner specializing in Mindanao heritage destinations and community-based tourism. Your objective is to draft a 500-word tourism development brief for local government units and tourism stakeholders in Davao City."
@@ -31,10 +32,8 @@ Version	Prompt Modifier Added	Output Quality Reflection
 <br></br>
 #### V1	"Write a tourism plan for Davao City.":
 Too broad. Generated generic tourism recommendations with little connection to Davao's cultural identity.
-<br></br>
 #### V2	Added cultural tourism focus and specified indigenous heritage attractions:
 More relevant, but recommendations remained descriptive rather than actionable for local tourism planners.
-<br></br>
 #### V3	Added target audience, local cultural constraints, output length, and required recommendation structure:
 Target achieved. Produced practical, community-focused tourism strategies that balanced economic development with cultural preservation.
 
