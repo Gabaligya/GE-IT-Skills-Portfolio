@@ -1,21 +1,26 @@
 # GE-IT-Skills-Portfolio
-### Balancing books, building futures
+### ABOUT ME
+---------------------------------
 Hi! I’m a first-year Accountancy student with a growing passion for both finance and technology. Skilled in digital tools, data organization, and spreadsheet management, I also value precision, critical thinking, and integrity, qualities essential to both IT and accounting. I value integrity, adaptability, and continuous learning, especially in environments that challenge me to grow both technically and professionally. My goal is to build a strong foundation in accounting and technology while developing the skills needed to contribute effectively in modern, fast-paced industries.
 <br></br>
 <img width="1920" height="1080" alt="thank you" src="https://github.com/user-attachments/assets/6c7b5992-46ce-42d4-be85-1559382bfb53" />
 <img width="1584" height="396" alt="Profile Banner (1)" src="https://github.com/user-attachments/assets/ff010020-f632-4c6a-b205-90212eff8b2f" />
 
 This design was made to present myself professionally while also reflecting my preferred aesthetic and color palette. Green is a color that represents growth and neutrality, a trait I wish to convey to future clients and anyone who comes across my branding kit.
+
+---------------
 <br></br>
 <img width="1080" height="1080" alt="Product Poster (1)" src="https://github.com/user-attachments/assets/522bebbb-bfc2-4c4d-b62a-e55ef306f415" />
 
 For this product poster, the advertised product is the accounting service I provide. It features the basic calculator, a tool that symbolizes accounting and holds great meaning for my fellow accountants and me. 
+
+-------------
 <br></br>
 <img width="800" height="2000" alt="Infographic" src="https://github.com/user-attachments/assets/7fcf3d38-8a59-4356-9b7c-d851eac79d65" />
 
 This infographic uses the color palette from earlier designs and also addresses a problem faced by businesses and accountants in this modern age. By combining soothing green color, minimalist designs, and simple explanations, the infographic can be used not only for its content but also for its practical design.
 
-
+---------------
 <br></br>
 ## The Davao Cultural Heritage Tourism Prompt System
 ### 1. System Prompt Template 
@@ -48,18 +53,21 @@ Visual Prompt: "A flat minimalist vector logo of a traditional Mindanao okir-ins
 ### 1. AI-Generated Summary Audit
 I prompted an AI-assisted research tool to summarize the article "Heritage Tourism in Davao City: Challenges in Preservation and Promotion of Historical Sites" by Gultiano and Felicilda (2025). The generated statements were then verified against the original publication.
 <br></br>
-#### AI-Generated Statement / Citation	Source Vetted Against / Status / Human Correction 
-"The study identifies inadequate funding, urban development pressures, weak policy implementation, and low public awareness as the primary barriers to heritage tourism development in Davao City." / Gultiano & Felicilda (2025) /	✅ Verified	 / These four challenges were consistently identified throughout the study as the most significant obstacles to preserving and promoting historical sites in Davao City.
+## Literature Verification Log
 
-"Only 32% of local residents surveyed had visited at least one major heritage site in Davao City within the past year." /	Gultiano & Felicilda (2025) /	✅ Verified /	The study reported low public engagement with heritage attractions, particularly among younger residents, highlighting the need for awareness campaigns and educational initiatives.
+### Topic: Heritage Tourism in Davao City: Challenges in Preservation and Promotion of Historical Sites
 
-"Urbanization was identified as a threat by 82% of respondents, particularly around heritage areas such as Osmeña Park and San Pedro Cathedral." /	Gultiano & Felicilda (2025) /	✅ Verified /	Survey findings showed strong concern regarding the effects of urban development, traffic congestion, and encroachment on the visitor experience and preservation of historical sites.
+#### 1. AI-Generated Summary Audit
 
-"The researchers concluded that Davao City's heritage tourism sector is already generating substantial international tourism revenue comparable to UNESCO World Heritage destinations." /	Gultiano & Felicilda (2025)	/ ❌ Hallucination /	The article does not provide revenue comparisons, UNESCO benchmarking, or claims regarding international tourism performance. The AI introduced information not found in the source.
+| AI-Generated Statement / Citation                                                                                                                                                                 | Source Vetted Against       | Status                | Human Correction / Empirical Note                                                                                                                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------- | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The study identifies inadequate funding, urban development pressures, weak policy implementation, and low public awareness as the primary barriers to heritage tourism development in Davao City. | Gultiano & Felicilda (2025) | ✅ Verified            | These four challenges were consistently identified throughout the study as the most significant obstacles to preserving and promoting historical sites in Davao City.                                                                                            |
+| Only 32% of local residents surveyed had visited at least one major heritage site in Davao City within the past year.                                                                             | Gultiano & Felicilda (2025) | ✅ Verified            | The study reported low public engagement with heritage attractions, particularly among younger residents, highlighting the need for awareness campaigns and educational initiatives.                                                                             |
+| Urbanization was identified as a threat by 82% of respondents, particularly around heritage areas such as Osmeña Park and San Pedro Cathedral.                                                    | Gultiano & Felicilda (2025) | ✅ Verified            | Survey findings showed strong concern regarding the effects of urban development, traffic congestion, and encroachment on the visitor experience and preservation of historical sites.                                                                           |
+| The researchers concluded that Davao City's heritage tourism sector is already generating substantial international tourism revenue comparable to UNESCO World Heritage destinations.             | Gultiano & Felicilda (2025) | ❌ Hallucination       | The article does not provide revenue comparisons, UNESCO benchmarking, or claims regarding international tourism performance. The AI introduced information not found in the source.                                                                             |
+| The study recommends the use of digital tools such as interactive maps, heritage storytelling platforms, and augmented reality applications to improve visitor engagement.                        | Gultiano & Felicilda (2025) | ✅ Verified            | The discussion section specifically highlights digital innovations as potential strategies for enhancing heritage interpretation and promotion.                                                                                                                  |
+| Kadayawan Festival is currently the primary platform through which Davao City's heritage attractions are promoted to tourists.                                                                    | Gultiano & Felicilda (2025) | ⚠️ Partially Verified | The article notes that heritage promotion is often limited to broader tourism branding during events such as Kadayawan Festival. However, it does not claim that Kadayawan is the sole or primary promotional mechanism. The AI slightly overstated the finding. |
 
-"The study recommends the use of digital tools such as interactive maps, heritage storytelling platforms, and augmented reality applications to improve visitor engagement." / Gultiano & Felicilda (2025) /	✅ Verified	/ The discussion section specifically highlights digital innovations as potential strategies for enhancing heritage interpretation and promotion.
-
-"Kadayawan Festival is currently the primary platform through which Davao City's heritage attractions are promoted to tourists."	/ Gultiano & Felicilda (2025) /	⚠️ Partially Verified	/ The article notes that heritage promotion is often limited to broader tourism branding during events such as the Kadayawan Festival. However, it does not claim that Kadayawan is the sole or primary promotional mechanism. The AI slightly overstated the finding.
 <br></br>
 ### 2. Reflection on AI Reliability
 The AI-generated summary accurately identified several major themes in the article, particularly funding limitations, urbanization pressures, weak policy implementation, and low public awareness. However, the audit also revealed a tendency to exaggerate findings and to introduce unsupported claims regarding tourism revenue, international recognition, and promotional effectiveness. These errors demonstrate how AI systems can confuse recommendations, assumptions, and factual findings when summarizing academic literature.
